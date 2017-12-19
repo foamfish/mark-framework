@@ -1,2 +1,2 @@
 # mark-framework
-mark framework was designed for quickly develop normal project with spring boot .
+mark framework is designed with spring boot for quick develop project
